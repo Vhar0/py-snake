@@ -9,6 +9,7 @@ Utilizzo
 Controlli
 Contribuire
 Licenza
+--------------
 Caratteristiche
 Grafica semplice e intuitiva: Una rappresentazione chiara e colorata del serpente e del cibo.
 Controlli facili: Utilizza le frecce della tastiera per controllare il serpente.
